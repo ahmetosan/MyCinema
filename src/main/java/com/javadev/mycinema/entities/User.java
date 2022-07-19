@@ -8,7 +8,7 @@ import javax.persistence.Table;
 import java.util.List;
 
 @Entity
-@Table(name = "user_account")
+@Table(name = "user_accounts")
 
 public class User extends BaseEntity{
 
